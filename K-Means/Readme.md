@@ -1,0 +1,1 @@
+On running K-means clustering, it was found that the clusters are more affected by the environment in which the picture was taken rather than the person in it. Hence the pictures with same lighting and camera positioning grouped into a cluster. 
